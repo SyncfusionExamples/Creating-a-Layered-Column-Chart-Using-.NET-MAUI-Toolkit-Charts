@@ -9,7 +9,7 @@ This sample delves into building a Layered Column Chart using the Syncfusion **.
 This visualization is grounded in the findings of the **2024 European Accommodation Barometer**, a comprehensive survey conducted by Statista in collaboration with Booking.com. The report captures the evolving sentiment and operational challenges faced by hoteliers across Europe in the wake of the post-pandemic travel surge.
 
 Take a look at the final output of the layered column chart, fully customized to visualize the real world data more effectively.
-[Add image]
+![Sample image displaying layered column chart output](https://github.com/user-attachments/assets/2a9d9494-eccf-43df-bfe4-30efc82aaad9)
 
 ## Troubleshooting
 
