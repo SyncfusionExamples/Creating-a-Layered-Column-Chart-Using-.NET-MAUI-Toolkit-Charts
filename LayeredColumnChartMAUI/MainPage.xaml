@@ -21,7 +21,6 @@
 
                 <Path Fill="#1C5FC0"  
                       Data="{StaticResource IconPathData}"
-                      x:DataType="local:ViewModel"
                       Margin="{OnIdiom Desktop='0,5,0,0', Phone='0,2,0,0'}" />
 
                 <VerticalStackLayout Margin="5,0,0,0">
