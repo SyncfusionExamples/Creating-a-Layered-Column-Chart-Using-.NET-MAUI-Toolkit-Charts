@@ -17,4 +17,4 @@ Take a look at the final output of the layered column chart, fully customized to
 
 If you are facing a "Path too long" exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For a step-by-step guide, refer to the article [Creating a Layered Column Chart Using .NET MAUI Toolkit Charts to Visualize European Accommodation Trends in 2024]().
+For a step-by-step guide, refer to the article [Creating a Layered Column Chart Using .NET MAUI Toolkit Charts to Visualize European Accommodation Trends in 2024](https://www.syncfusion.com/blogs/post/dotnet-maui-layered-column-chart).
